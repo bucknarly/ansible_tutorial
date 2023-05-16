@@ -1,0 +1,29 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+    - name: Set firewall to http
+      ansible.posix.firewalld:
+        zone: public
+        immediate: true
+        service: http 
+        permanent: true
+        state: enabled
+
+    - name: Set firewall for https
+      ansible.posix.firewalld:
+        zone: public
+        immediate: true
+        service: https
+        permanent: true
+        state: enabled
+
+    - name: Enable and start httpd on all systems
+      ansible.builtin.service:
+        name: httpd
+        enabled: true
+        state: started
+...
+

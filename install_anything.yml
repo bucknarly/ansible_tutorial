@@ -1,0 +1,13 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+    - name: install apache2 package
+      dnf:
+        name: httpd
+
+    - name: install nmap
+      dnf:
+        name: nmap
