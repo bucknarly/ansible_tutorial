@@ -1,7 +1,9 @@
 # ansible\_tutorial
 ### Some markdown hints...
+#### Wonder if 4 \# works
 Using a single \# = First level heading.
-Double will be second level  
+Double \#\# =  second level  
+Three \#\#\# = third level
 Should be a horizontal rule  
 ```
 And this should be a new line  
