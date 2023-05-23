@@ -6,7 +6,7 @@ Should be a horizontal rule
 And this should be a new line  
 Add 2 or more spaces then hit <Enter> for a new line
 Here's a fun one...  
-膕膕$ git commit -m.  <-The period after means you don't have to add a message   
+&nbsp&nbsp$ git commit -m.  <-The period after means you don't have to add a message   
   
 I want to see if I can get a new line with 2 spaces at the start of a blank line
 
