@@ -5,8 +5,6 @@
 ##### Here is 5 \#
 ###### Here is 6 \#. Smallest header you can get.   
 ***
-This should be on a line of it's own. 
----
 If I read it right, there should be a horizontal rule above this line   
 
 ```
