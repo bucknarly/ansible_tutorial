@@ -4,8 +4,14 @@
 #### Here is 4 \#
 ##### Here is 5 \#
 ###### Here is 6 \#. Smallest header you can get.   
+Levels of horizontal rule   
+Thick rule is \*\*\* 
 ***
-If I read it right, there should be a horizontal rule above this line   
+Next is not so thick
+___
+Finally, thin
+---
+   
 
 ```
 And this should be a new line  
