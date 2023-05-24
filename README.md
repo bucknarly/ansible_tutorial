@@ -14,8 +14,9 @@ Always leave a blank link above and below.
 ---
 
 ```
-And this should be a new line  
 Add 2 or more spaces then hit \<Enter\> for a new line
+And this should be a new line  
+```
 The above text is a backticks block = Code block. Creates an upper right 'copy' button
 
 Here's a fun one...  
