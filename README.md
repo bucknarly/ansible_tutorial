@@ -20,6 +20,7 @@ Add 2 or more spaces then hit \<Enter\> for a new line
 The above text is a backticks block = Code block. Creates an upper right 'copy' button
 
 Here's a fun one...  
-$~~~~~~~~~~$$ git commit -m.  <-The period after means you don't have to add a message    
+$~~~~~~~~~~$$ git commit -m.  <-The period after means you don't have to add a message  
+  
 I want to see if I can get a new line with 2 spaces at the start of a blank line
 
