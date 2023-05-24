@@ -4,24 +4,23 @@
 #### Here is 4 \#
 ##### Here is 5 \#
 ###### Here is 6 \#. Smallest header you can get.   
-Levels of horizontal rule   
+Horizontal rule   
 
 ***
 
-Thick rule is \*\*\*     
+Use 3 or more '\*\*\*' (asterisks), '\-\-\-' (dashes) or \_\_\_ (underscores)   
+Always leave a blank link above and below.   
 
 ---
-
-Next is not so thick   
 
 ```
 And this should be a new line  
 Add 2 or more spaces then hit \<Enter\> for a new line
+```
+The above text is a backticks block = Code block. Creates an upper right 'copy' button
+
 Here's a fun one...  
 $~~~~~~~~~~$$ git commit -m.  <-The period after means you don't have to add a message   
   
 I want to see if I can get a new line with 2 spaces at the start of a blank line
-```
-Backticks block = Code block. Makes an upper right 'copy' button
-
 
