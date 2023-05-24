@@ -1,16 +1,14 @@
-# ansible\_tutorial
-### Some markdown hints...
+# This is first level header using \#.  
+## Second level using 2\#
+### Third level using 3\#
 #### Here is 4 \#
 ##### Here is 5 \#
-###### Here is 6 \#
-####### Here is 7 \#
-
-
-Using a single \# = First level heading.
-Double \#\# =  second level  
-Three \#\#\# = third level  
-Should be a horizontal rule  
+###### Here is 6 \#. Smallest header you can get.
+    
+This should be on a line of it's own. 
 ---
+If I read it right, there should be a horizontal rule above this line
+
 ```
 And this should be a new line  
 Add 2 or more spaces then hit \<Enter\> for a new line
