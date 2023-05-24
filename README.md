@@ -7,11 +7,8 @@
 Levels of horizontal rule   
 Thick rule is \*\*\* 
 ***
-Next is not so thick
-___
-Finally, thin
----
-   
+Next is not so thick   
+---   
 
 ```
 And this should be a new line  
